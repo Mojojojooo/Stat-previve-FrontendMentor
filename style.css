@@ -1,0 +1,26 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+  font-size: 11px;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.box {
+  background-color: hsl(244, 38%, 16%);
+  margin: 20% 10%;
+}
+
+@media screen and (min-width: 375px) {
+  body {
+    background-color: hsl(233, 47%, 7%);
+  }
+}
